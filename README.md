@@ -4,7 +4,7 @@
 - I'm a **full-stack engineer** focused on frontend, based in **Brooklyn, NY**, and currently open to new roles.
 - I build polished, production-ready apps using **React**, **TypeScript**, **Go**, and **PostgreSQL**.
 - Through my work at a Cleveland-area govtech startup (**CHAMPtitles**) and internships via **Fractal Tech**, I’ve built real-world dashboards, analytics tools, and secure backend flows.
-- I care deeply about intuitive UI, fast load times, and clean, maintainable code.
+- I care deeply about intuitive UI and clean, maintainable code.
 - 🔗 Check out my [portfolio](https://alanmgarber.com) or reach me at [a8garber@yahoo.com](mailto:a8garber@yahoo.com)
 
 ## 🛠 Tech Stack
